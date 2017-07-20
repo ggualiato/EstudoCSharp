@@ -1,0 +1,38 @@
+c:\users\re035129\documents\visual studio 2012\Projects\Banco\Banco\bin\Debug\Banco.exe.config
+c:\users\re035129\documents\visual studio 2012\Projects\Banco\Banco\bin\Debug\Banco.exe
+c:\users\re035129\documents\visual studio 2012\Projects\Banco\Banco\bin\Debug\Banco.pdb
+c:\users\re035129\documents\visual studio 2012\Projects\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+c:\users\re035129\documents\visual studio 2012\Projects\Banco\Banco\obj\Debug\Banco.Form1.resources
+c:\users\re035129\documents\visual studio 2012\Projects\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+c:\users\re035129\documents\visual studio 2012\Projects\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+c:\users\re035129\documents\visual studio 2012\Projects\Banco\Banco\obj\Debug\Banco.exe
+c:\users\re035129\documents\visual studio 2012\Projects\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\re035129\Documents\Estudo\Banco\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\re035129\Documents\Estudo\Banco\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\re035129\Documents\Estudo\Banco\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\re035129\Documents\Estudo\Banco\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\re035129\Documents\Estudo\Banco\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\re035129\Documents\Estudo\Banco\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\re035129\Documents\Estudo\Banco\Banco\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\re035129\Documents\Estudo\Banco\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\re035129\Documents\Estudo\Banco\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+E:\Documentos\Visual Studio 2017\Projects\Banco\Banco\bin\Debug\Banco.exe.config
+E:\Documentos\Visual Studio 2017\Projects\Banco\Banco\bin\Debug\Banco.exe
+E:\Documentos\Visual Studio 2017\Projects\Banco\Banco\bin\Debug\Banco.pdb
+E:\Documentos\Visual Studio 2017\Projects\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+E:\Documentos\Visual Studio 2017\Projects\Banco\Banco\obj\Debug\Banco.Form1.resources
+E:\Documentos\Visual Studio 2017\Projects\Banco\Banco\obj\Debug\Banco.FormCadastroConta.resources
+E:\Documentos\Visual Studio 2017\Projects\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+E:\Documentos\Visual Studio 2017\Projects\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+E:\Documentos\Visual Studio 2017\Projects\Banco\Banco\obj\Debug\Banco.exe
+E:\Documentos\Visual Studio 2017\Projects\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\re035129\Documents\Visual Studio 2012\Projects\EstudoCSharp-master\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\re035129\Documents\Visual Studio 2012\Projects\EstudoCSharp-master\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\re035129\Documents\Visual Studio 2012\Projects\EstudoCSharp-master\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\re035129\Documents\Visual Studio 2012\Projects\EstudoCSharp-master\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\re035129\Documents\Visual Studio 2012\Projects\EstudoCSharp-master\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\re035129\Documents\Visual Studio 2012\Projects\EstudoCSharp-master\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\re035129\Documents\Visual Studio 2012\Projects\EstudoCSharp-master\Banco\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\re035129\Documents\Visual Studio 2012\Projects\EstudoCSharp-master\Banco\Banco\obj\Debug\Banco.FormCadastroConta.resources
+C:\Users\re035129\Documents\Visual Studio 2012\Projects\EstudoCSharp-master\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\re035129\Documents\Visual Studio 2012\Projects\EstudoCSharp-master\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
